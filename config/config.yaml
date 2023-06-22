@@ -1,5 +1,8 @@
 artifacts_root: artifacts
 
+#https://drive.google.com/file/d/1YTptQHz1YP_K4eadeRgaNaxgL29ACDuJ/view?usp=sharing
+#https://github.com/entbappy/Branching-tutorial/raw/master/Chicken-fecal-images.zip
+#s3://chickenbucketaws/Chicken-fecal-images.zip
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
