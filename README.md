@@ -12,6 +12,8 @@
 8 Update main.py
 9 Update dvc.yaml
 
+691258540533.dkr.ecr.ap-south-1.amazonaws.com/chicken
+
 ## How to run?
 STEPS:
 Clone the repository
